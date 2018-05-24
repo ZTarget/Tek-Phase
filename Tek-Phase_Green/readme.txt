@@ -9,7 +9,7 @@ Try to keep it from looking too busy; keep it simple and somewhat flat looking.
 
 Setting Up the theme (Linux) Install
 
---“control H” to un-hide hidden folders. Place theme folders in /home/yourcomputername/.config/falkon/themes/
+--“control H” to un-hide hidden folders. Place themes in /home/yourcomputername/.config/falkon/themes/
 
 --Install the included font “Play” by Jonas Hecksher. You can look up how to install fonts on your OS, but here’s a brief how to on Linux. In your main folder hit “control H” to un-hide hidden folders, make a folder called .fonts (if there isn’t one there yet). Then place the font folder in there so it looks like home/”yourcomputername”/.fonts/play/
 
@@ -62,5 +62,5 @@ Green			#9DF50A
 Dark Green		#639906
 
 Changelog
-April 20 2018 - 1.0 first release version was made for Falkon 3.0.0 so there could be some bugs when newer versions get released.
-
+Apr 20 2018 - 1.0 first release version was made for Falkon 3.0.0 so there could be some bugs when newer versions get released.
+May 23 2018 - Fixed add tab button. the svg was messed up (appeared normal to me in Antergos) and I changed the code for this a tad (line 378, 380, at this time)

@@ -375,9 +375,9 @@ BrowsingLibrary, BrowsingLibrary #frame_2, BrowsingLibrary #frame, BrowsingLibra
 }
 
 #tabwidget-button-addtab{
-	qproperty-iconSize: 23px;
+	qproperty-iconSize: 22px;
     qproperty-icon: url(images/addp1.svg);
-    qproperty-fixedsize: 25px 23px;
+    qproperty-fixedsize: 22px 24px;
     margin-left: 3px;
 }
 
