@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,13 +40,15 @@
      id="namedview8"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="-26.78573"
-     inkscape:cy="13.355932"
+     inkscape:zoom="41.7193"
+     inkscape:cx="2.5042714"
+     inkscape:cy="6.4898219"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="false" />
   <defs
      id="defs3051">
     <style
@@ -63,15 +65,15 @@
      inkscape:label="Layer 1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.10778618px;line-height:1.25;font-family:'Montserrat Alternates';-inkscape-font-specification:'Montserrat Alternates Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#0ab6f5;fill-opacity:1;stroke:none;stroke-width:0.67769474;"
-       x="0.12853719"
-       y="17.351208"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.34762955px;line-height:1.25;font-family:'Montserrat Alternates';-inkscape-font-specification:'Montserrat Alternates Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#0ab6f5;fill-opacity:1;stroke:none;stroke-width:0.55869079;"
+       x="-1.3686674"
+       y="15.011696"
        id="text15"
-       transform="scale(0.98293526,1.017361)"><tspan
+       transform="scale(1.0007797,0.9992209)"><tspan
          sodipodi:role="line"
          id="tspan13"
-         x="0.12853719"
-         y="17.351208"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Montserrat Alternates';-inkscape-font-specification:'Montserrat Alternates Semi-Bold';fill:#0ab6f5;fill-opacity:1;stroke-width:0.67769474;">+</tspan></text>
+         x="-1.3686674"
+         y="15.011696"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Montserrat Alternates';-inkscape-font-specification:'Montserrat Alternates Semi-Bold';fill:#0ab6f5;fill-opacity:1;stroke-width:0.55869079;">+</tspan></text>
   </g>
 </svg>
